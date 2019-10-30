@@ -6,7 +6,7 @@ This repository is for the foundation year robot football project.
 [Download Report](https://github.com/aj5538z/EV3-Robot-Football/blob/master/Report/Andrew%20Johnston%20Project%201.docx?raw=true)
 
 ## Code
-
+[Download Code](https://github.com/aj5538z/EV3-Robot-Football/blob/master/Code/EV3%20Robot%20Football.ev3?raw=true)
 
 ## Author
 aj5538z
