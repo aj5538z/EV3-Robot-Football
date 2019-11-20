@@ -10,15 +10,12 @@ This repository is for the foundation year robot football project.
 ## Scientific Properties
 [Download Scientific Properties](https://github.com/aj5538z/EV3-Robot-Football/blob/master/Scientific%20Properties/Project%201%20Analysis%20of%20the%20Scientific%20Properties.docx?raw=true)
 
-## Code V1
-[Download Code V1](https://github.com/aj5538z/EV3-Robot-Football/blob/master/Code/EV3%20Robot%20Football.ev3?raw=true)
-
-## Code V2
-[Download Code V2](https://github.com/aj5538z/EV3-Robot-Football/blob/master/Code/EV3%20Robot%20Football%20Code%20V2.ev3?raw=true)
+## Code
+[Download Code](https://github.com/aj5538z/EV3-Robot-Football/blob/master/Code/EV3%20Robot%20Football%20Code%20V2.ev3?raw=true)
 
 ## Author
 aj5538z
 
 Creation date: 23/10/2019
 
-Version: 1.0.1.3
+Version: 1.0.1.4
